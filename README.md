@@ -1,6 +1,6 @@
 <h1 align=center>Sudoku Game</h1>
 
-<h3>🚧 Under construction 🚧</h3>
+<h3>🚧 Project under construction 🚧</h3>
 
 <h2 align=center>Sudoku game made with Java GUI</h2>
 
